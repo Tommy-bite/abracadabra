@@ -1,0 +1,24 @@
+{
+  "name": "abracadabra",
+  "type" : "module",
+  "version": "1.0.0",
+  "description": "Desafio Evaluado Abracadabra",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "JS",
+    "NODE",
+    "EXPRESS",
+    "NODEMON"
+  ],
+  "author": "Cristian Jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
